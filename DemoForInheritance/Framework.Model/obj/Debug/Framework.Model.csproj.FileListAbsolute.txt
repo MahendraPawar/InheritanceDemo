@@ -1,0 +1,5 @@
+E:\Repositories\DemoForInheritance\Framework.Model\bin\Debug\Framework.Model.dll
+E:\Repositories\DemoForInheritance\Framework.Model\bin\Debug\Framework.Model.pdb
+E:\Repositories\DemoForInheritance\Framework.Model\obj\Debug\Framework.Model.csprojResolveAssemblyReference.cache
+E:\Repositories\DemoForInheritance\Framework.Model\obj\Debug\Framework.Model.dll
+E:\Repositories\DemoForInheritance\Framework.Model\obj\Debug\Framework.Model.pdb

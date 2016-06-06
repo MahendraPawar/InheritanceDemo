@@ -1,0 +1,7 @@
+E:\Repositories\DemoForInheritance\DataLayer\obj\Debug\Framework.DataLayer.csprojResolveAssemblyReference.cache
+E:\Repositories\DemoForInheritance\DataLayer\bin\Debug\DataLayer.dll
+E:\Repositories\DemoForInheritance\DataLayer\bin\Debug\DataLayer.pdb
+E:\Repositories\DemoForInheritance\DataLayer\bin\Debug\Framework.Model.dll
+E:\Repositories\DemoForInheritance\DataLayer\bin\Debug\Framework.Model.pdb
+E:\Repositories\DemoForInheritance\DataLayer\obj\Debug\DataLayer.dll
+E:\Repositories\DemoForInheritance\DataLayer\obj\Debug\DataLayer.pdb

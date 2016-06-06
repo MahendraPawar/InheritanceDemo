@@ -1,0 +1,9 @@
+E:\Repositories\DemoForInheritance\DataLayer.Test\obj\Debug\Framework.DataLayer.Test.csprojResolveAssemblyReference.cache
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\DataLayer.Test.dll
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\DataLayer.Test.pdb
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\DataLayer.dll
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\Framework.Model.dll
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\DataLayer.pdb
+E:\Repositories\DemoForInheritance\DataLayer.Test\bin\Debug\Framework.Model.pdb
+E:\Repositories\DemoForInheritance\DataLayer.Test\obj\Debug\DataLayer.Test.dll
+E:\Repositories\DemoForInheritance\DataLayer.Test\obj\Debug\DataLayer.Test.pdb
